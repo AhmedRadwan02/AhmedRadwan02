@@ -4,7 +4,7 @@
 
 
 
-<h3>Hi there, I'm Ahmed Radwan!</h3>
+<h3 align="center">Hi there, I'm Ahmed Radwan!</h3>
 
 ## About Me
 <h4>- 🔭 I’m currently working on SARD: Image-Inspired Narratives and AI for Drones</h4>
