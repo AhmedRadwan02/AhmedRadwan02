@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="[https://visitor-badge.glitch.me/badge?page_id=ahmedyradwan02.ahmedyradwan02](https://media1.tenor.com/m/FeIs2cPIbHwAAAAC/oyasumi-punpun-walking.gif)" alt="visitor badge"/>
+  <img src="https://media1.tenor.com/m/FeIs2cPIbHwAAAAC/oyasumi-punpun-walking.gif" alt="PunPun"/>
+</p>
+
 
 
 <h3>Hi there, I'm Ahmed Radwan!</h3>
