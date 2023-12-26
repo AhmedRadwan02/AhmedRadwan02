@@ -1,13 +1,16 @@
-![Punpun GIF]([URL_of_the_Punpun_GIF](https://tenor.com/view/oyasumi-punpun-walking-gif-18102346))
-# Hi there, I'm Ahmed Radwan!
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ahmedyradwan02.ahmedyradwan02" alt="visitor badge"/>
+
+
+<h3>Hi there, I'm Ahmed Radwan!</h3>
 
 ## About Me
-- 🔭 I’m currently working on SARD: Image-Inspired Narratives and AI for Drones
-- 🌱 I’m currently learning Statistics for AI, Object Detection, and Language Translation
+<h4>- 🔭 I’m currently working on SARD: Image-Inspired Narratives and AI for Drones</h4>
+<h4>- 🌱 I’m currently learning Statistics for AI, Object Detection, and Language Translation</h4>
 ![](https://visitor-badge.glitch.me/badge?page_id=ahmedyradwan02.ahmedyradwan02)
-
+  /p>
 ## My GitHub Statistics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ahmedradwan02]&show_icons=true)
 
 ## Languages and Tools
 [![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
