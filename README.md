@@ -9,8 +9,11 @@
 <h4>- 🌱 I’m currently learning Statistics for AI, Object Detection, and Language Translation</h4>
 ![](https://visitor-badge.glitch.me/badge?page_id=ahmedyradwan02.ahmedyradwan02)
   /p>
+  
 ## My GitHub Statistics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ahmedradwan02]&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedradwan02&show_icons=true" alt="GitHub Stats"/>
+</p>
 
 ## Languages and Tools
 [![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
