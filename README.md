@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/FeIs2cPIbHwAAAAC/oyasumi-punpun-walking.gif" alt="PunPun"/>
+  <img src="https://media1.tenor.com/m/FeIs2cPIbHwAAAAC/oyasumi-punpun-walking.gif" alt="PunPun" style="width: 50%;"/>
 </p>
 
 
