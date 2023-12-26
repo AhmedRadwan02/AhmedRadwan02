@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ahmedyradwan02.ahmedyradwan02" alt="visitor badge"/>
+  <img src="[https://visitor-badge.glitch.me/badge?page_id=ahmedyradwan02.ahmedyradwan02](https://media1.tenor.com/m/FeIs2cPIbHwAAAAC/oyasumi-punpun-walking.gif)" alt="visitor badge"/>
 
 
 <h3>Hi there, I'm Ahmed Radwan!</h3>
@@ -7,9 +7,7 @@
 ## About Me
 <h4>- 🔭 I’m currently working on SARD: Image-Inspired Narratives and AI for Drones</h4>
 <h4>- 🌱 I’m currently learning Statistics for AI, Object Detection, and Language Translation</h4>
-![](https://visitor-badge.glitch.me/badge?page_id=ahmedyradwan02.ahmedyradwan02)
-  /p>
-  
+
 ## My GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedradwan02&show_icons=true" alt="GitHub Stats"/>
