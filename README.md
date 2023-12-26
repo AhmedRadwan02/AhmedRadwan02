@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [http://ahmedradwan.me/](http://ahmedradwan.me/)
 
-- 📫 How to reach me **ahmedyadwan02@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rh0guEDafvIXWN3O6TL64EEYOYaj-Rhy/view?usp=sharing](https://drive.google.com/file/d/1rh0guEDafvIXWN3O6TL64EEYOYaj-Rhy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
