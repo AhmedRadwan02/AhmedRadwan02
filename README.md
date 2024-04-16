@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [http://ahmedradwan.me/](http://ahmedradwan.me/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rh0guEDafvIXWN3O6TL64EEYOYaj-Rhy/view?usp=sharing](https://drive.google.com/file/d/1rh0guEDafvIXWN3O6TL64EEYOYaj-Rhy/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1LXwtcmkD2TWHpZt3eROsjtY-IGMJkVt0/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
