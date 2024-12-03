@@ -7,9 +7,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedradwan02&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedradwan02" /> </p>
 
-- 🔭 I’m currently working on **SARD:Image-Inspired Narratives and AI for Drones**
+- 🔭 I’m currently working on **Self-Supervised Learning in Wi-Fi Sensing**
 
-- 🌱 I’m currently learning **Statistics for AI, Object Detection, and Language Translation**
+- 🌱 I’m currently learning **Domain Adaptation, and Wi-Fi Sensing**
 
 - 👨‍💻 All of my projects are available at [http://ahmedradwan.me/](http://ahmedradwan.me/)
 
